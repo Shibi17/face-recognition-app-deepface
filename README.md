@@ -1,4 +1,4 @@
-# 🌟 Face Recognition App
+# Face Recognition App
 
 ![Face Recognition Banner](https://images.unsplash.com/photo-1593642532973-d31b6557fa68?fit=crop&w=1200&q=80)
 
@@ -6,7 +6,7 @@ A modern **Face Recognition Web Application** built with **Flask**, **DeepFace**
 
 ---
 
-## 🔹 Features
+## Features
 
 - **Register Faces**  
   Upload an image with a name, and save it persistently on the server or cloud.
@@ -28,7 +28,7 @@ A modern **Face Recognition Web Application** built with **Flask**, **DeepFace**
 
 ---
 
-## 🏗️ Tech Stack
+## Tech Stack
 
 - **Backend:** Python, Flask  
 - **Face Recognition:** DeepFace (Facenet)  
